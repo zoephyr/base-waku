@@ -6,6 +6,7 @@ const App = ({ name }: { name: string }) => {
       <h1 className="text-3xl font-bold underline text-red-500">Hello {name}!</h1>
       <h3 className="text-xl font-bold underline text-purple-500">This is a server component. I guess this is going to be the rage this year</h3>
       <p>I sure hope I bet right on this technology...</p>
+<h1 className="text-3xl">JAN 11: POTHOLE DIFFICULTY</h1>
       <Counter />
     </div>
   );
